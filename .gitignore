@@ -1,0 +1,13 @@
+*.DS_store
+__pycache__
+
+# Filetypes
+*.swp
+*.plist
+*.lock
+*.log
+
+# Directories
+build/
+_build/
+_templates
