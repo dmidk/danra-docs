@@ -9,5 +9,4 @@ __pycache__
 
 # Directories
 _build
-docs/_static
 _templates

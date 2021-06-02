@@ -8,5 +8,5 @@ dependencies:
   - pip:
     - docopt
     - sphinx-rtd-theme
-    - insegel
     - myst-parser
+    - furo
