@@ -1,7 +1,5 @@
 #!/bin/bash
 
-cd sphinx-docs
-#make clean
+cd doc
+make clean
 make html
-
-cp -r _build/html/* ../docs/
