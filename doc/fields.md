@@ -135,5 +135,72 @@ The contents of the FC3hr files, including variable name, units, level type and 
 |High cloud cover|-|sfc|0|00 03 06 09 12 18 21|
 |Cloud water|kg m⁻²|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 03 06 09 12 18 21|
 |Geometrical height for zero degree temperature|m|20|27315|00 03 06 09 12 18 21|
-|Geometrical heigth|m|5|0|00 03 06 09 12 18 21|
+|Geometrical height|m|5|0|00 03 06 09 12 18 21|
 |Soil moisture|kg m⁻³|sfc|800 801|00 03 06 09 12 18 21|
+
+## List of fields in in the 18h forecast files
+
+The FC18hr file contains forecast times 0-18, for cycles 00 UTC and 12 UTC.
+
+The contents of the FC18hr files, including variable name, units, level type and level are included in the table below
+
+|Name|Units|LevelType|Levels|Basetime|
+|---|---|---|---|---|
+|Mean Sea Level Pressure|Pa|103|0|00 12|
+|Surface Pressure|Pa|sfc|0|00 12|
+|Temperature|K|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Temperature|K|sfc|0 2 30 50 75 100 150 200 250 300 500|00 12|
+|Net short-wave radiation flux (surface), accumulated |W m⁻²|sfc|0|00 12|
+|Net long-wave radiation flux (surface), accumulated |Wm⁻²|sfc|0|00 12|
+|Net short-wave radiation flux (TOA), accumulated |Wm⁻²|sfc|0|00 12|
+|Net long-wave radiation flux (TOA), accumulated |Wm⁻²|sfc|0|00 12|
+|Long-wave radiation flux, accumulated |Wm⁻²|sfc|0|00 12|
+|Short-wave radiation flux, accumulated |Wm⁻²|sfc|0|00 12|
+|Global radiation flux, accumulated |Wm⁻²|sfc|0|00 12|
+|Sensible heat flux, accumulated |Wm⁻²|sfc|0|00 12|
+|Momentum flux u-component, accumulated |N m⁻²|sfc|0|00 12|
+|Momentum flux v-component, accumulated |N m⁻²|sfc|0|00 12|
+|Latent heat flux through evaporation, accumulated |Wm⁻²|sfc|0|00 12|
+|Icing index|-|sfc|0|00 12|
+|Pseudo satellite image: cloud top temperature (infrared)|-|sfc|0|00 12|
+|Pseudo satellite image: water vapour Tb|-|sfc|0|00 12|
+|Pseudo satellite image: water vapour Tb + correction for clouds|-|sfc|0|00 12|
+|Pseudo satellite image: cloud water reflectivity (visible)|-|sfc|0|00 12|
+|Direct normal irradiance, accumulated|W m⁻²|sfc|0|00 12|
+|Precipitation Type|-|sfc|0|00 12|
+|Maximum temperature|K|sfc|2|00 12|
+|CAPE out of the model|J kg⁻¹|sfc|0|00 12|
+|Minimum temperature|K|sfc|2|00 12|
+|AROME hail diagnostic|kg m⁻²|sfc|0|00 12|
+|Gust u-component|m s⁻¹|sfc|10|00 12|
+|Gust v-component|m s⁻¹|sfc|10|00 12|
+|Rain, accumulated|kg m⁻²|sfc|0|00 12|
+|Snow, accumulated|kg m⁻²|sfc|0|00 12|
+|Cloud base|m|sfc|0|00 12|
+|Cloud top|m|sfc|0|00 12|
+|Surface soil ice|m³ m⁻³|sfc|801|00 12|
+|Visibility|m|sfc|0|00 12|
+|Graupel|kg m⁻²|sfc|0|00 12|
+|Latent Heat Sublimation, accumulated|J kg⁻²|sfc|0|00 12|
+|Water evaporation, accumulated|kg m⁻²|sfc|0|00 12|
+|Snow sublimation, accumulated|kg m⁻²|sfc|0|00 12|
+|u-component of wind|m s⁻¹|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|u-component of wind|m s⁻¹|sfc|10 30 50 75 100 150 200 250 300 500|00 12|
+|v-component of wind|m s⁻¹|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|v-component of wind|m s⁻¹|sfc|10 30 50 75 100 150 200 250 300 500|00 12|
+|Vertical velocity|m s⁻¹|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Relative humidity|%|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Relative humidity|%|sfc|2 30 50 75 100 150 200 250 300 500|00 12|
+|Precipitable water|kg m⁻²|sfc|0|00 12|
+|Cloud ice|kg m⁻²|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Geopotential|m² s⁻²|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Total precipitation, accumulated|kg m⁻²|sfc|0|00 12|
+|Water equivalent of accumulated snow depth|kg m⁻²|sfc|0|00 12|
+|Mixed layer depth|m|sfc|0|00 12|
+|Total cloud cover|-|sfc|0 2|00 12|
+|Low cloud cover|-|sfc|0|00 12|
+|Medium cloud cover|-|sfc|0|00 12|
+|High cloud cover|-|sfc|0|00 12|
+|Cloud water|kg m⁻²|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
+|Geometrical height for zero degree temperature|m|20|27315|00 12|
+|Geometrical height|m|5|0|00 12|
