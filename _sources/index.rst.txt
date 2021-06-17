@@ -9,10 +9,10 @@ The goal is to create a 70-year atmospheric reanalysis for Danish area with the 
 This website is build to inform users of the available variables, how to read data and potentially how to use it.
 
 .. toctree::
-   :maxdepth: 3
    :caption: Contents:
 
    intro
+   fields
    license
 
 
