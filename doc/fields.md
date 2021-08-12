@@ -68,6 +68,11 @@ The contents of the analysis files, including variable name, units, level type a
 |Geometrical height for zero degree temperature|m|20|27315|00 03 06 09 12 18 21|
 |Geometrical heigth|m|5|0|00 03 06 09 12 18 21|
 |Soil moisture|kg m⁻³|sfc|800 801|00 03 06 09 12 18 21|
+|Surface roughness|m|sfc|810|00|
+|Surface roughness|m|sfc|811|00|
+|Wind speed|m s⁻¹|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Wind direction|deg|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Specific humidity|kg kg⁻¹|sfc|2|00 03 06 09 12 18 21|
 
 
 ## List of fields in in the 3h forecast files
@@ -137,6 +142,11 @@ The contents of the FC3hr files, including variable name, units, level type and 
 |Geometrical height for zero degree temperature|m|20|27315|00 03 06 09 12 18 21|
 |Geometrical height|m|5|0|00 03 06 09 12 18 21|
 |Soil moisture|kg m⁻³|sfc|800 801|00 03 06 09 12 18 21|
+|Surface roughness|m|sfc|810|00|
+|Surface roughness|m|sfc|811|00|
+|Wind speed|m s⁻¹|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Wind direction|deg|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Specific humidity|kg kg⁻¹|sfc|2|00 03 06 09 12 18 21|
 
 ## List of fields in in the 18h forecast files
 
@@ -204,3 +214,7 @@ The contents of the FC18hr files, including variable name, units, level type and
 |Cloud water|kg m⁻²|pl|100 200 250 300 400 500 600 700 800 850 900 925 950 1000|00 12|
 |Geometrical height for zero degree temperature|m|20|27315|00 12|
 |Geometrical height|m|5|0|00 12|
+|Wind speed|m s⁻¹|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Wind direction|deg|sfc|10 15 30 50 75 100 150 200 250 300 400 500|00 03 06 09 12 18 21|
+|Specific humidity|kg kg⁻¹|sfc|2|00 03 06 09 12 18 21|
+
