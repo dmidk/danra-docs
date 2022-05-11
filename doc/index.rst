@@ -12,6 +12,9 @@ This website is build to inform users of the available variables, how to read da
    :caption: Contents:
 
    intro
+   configuration
+   production
+   evaluation
    fields
    license
 
