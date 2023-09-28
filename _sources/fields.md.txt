@@ -2,7 +2,7 @@
 
 ## List of fields in in the analysis files
 
-The ANALYSIS file contains forecast time 0, every 3 hours for all cycles.
+The ANALYSIS files contain forecast time 0, every 3 hours for all cycles.
 
 The contents of the analysis files, including variable name, units, level type and level are included in the table below
 
